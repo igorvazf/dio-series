@@ -1,0 +1,16 @@
+C:\workspace\DIO.Series\obj\Debug\net5.0\DIO.Sertes.csprojAssemblyReference.cache
+C:\workspace\DIO.Series\obj\Debug\net5.0\DIO.Sertes.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\DIO.Series\obj\Debug\net5.0\DIO.Sertes.AssemblyInfoInputs.cache
+C:\workspace\DIO.Series\obj\Debug\net5.0\DIO.Sertes.AssemblyInfo.cs
+C:\workspace\DIO.Series\obj\Debug\net5.0\DIO.Sertes.csproj.CoreCompileInputs.cache
+C:\workspace\DIO.Series\bin\Debug\net5.0\DIO.Sertes.exe
+C:\workspace\DIO.Series\bin\Debug\net5.0\DIO.Sertes.deps.json
+C:\workspace\DIO.Series\bin\Debug\net5.0\DIO.Sertes.runtimeconfig.json
+C:\workspace\DIO.Series\bin\Debug\net5.0\DIO.Sertes.runtimeconfig.dev.json
+C:\workspace\DIO.Series\bin\Debug\net5.0\DIO.Sertes.dll
+C:\workspace\DIO.Series\bin\Debug\net5.0\ref\DIO.Sertes.dll
+C:\workspace\DIO.Series\bin\Debug\net5.0\DIO.Sertes.pdb
+C:\workspace\DIO.Series\obj\Debug\net5.0\DIO.Sertes.dll
+C:\workspace\DIO.Series\obj\Debug\net5.0\ref\DIO.Sertes.dll
+C:\workspace\DIO.Series\obj\Debug\net5.0\DIO.Sertes.pdb
+C:\workspace\DIO.Series\obj\Debug\net5.0\DIO.Sertes.genruntimeconfig.cache
